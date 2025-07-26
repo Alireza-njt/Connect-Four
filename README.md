@@ -1,4 +1,7 @@
 # Connect 4
+
+![](./connect4_image.webp)
+
 ## Video Demo:  <https://github.com/Alireza-njt/Connect-Four/releases/download/video/CS50.Python.Final.Project_Connect.4.with.Minimax.Alpha-Beta.Pruning.mp4>
 
 This project represents my final submission for Harvard's CS50 Introduction to Programming with Python course - a fully-functional Connect 4 implementation featuring an intelligent AI opponent. Designed for terminal/IDE environments, the game combines classic gameplay with modern artificial intelligence techniques.
